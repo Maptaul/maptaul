@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="206" src="https://i.ibb.co.com/JvHx4nW/Maptaul-islam-Taraq.png"  />
+  <img height="400" weight="1200" src="https://i.ibb.co.com/JvHx4nW/Maptaul-islam-Taraq.png"  />
 </div>
 
 ###
