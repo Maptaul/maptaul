@@ -16,11 +16,11 @@
 
 ###
 
-<h4 align="left">Hi, I'm Maptaul Islam Taraq!<br>I'm a passionate Junior Frontend Developer from Chattogram, Bangladesh. I thrive on building user-friendly and visually appealing web interfaces that make a real impact. Coding is not just my profession—it's my passion.</h4>
+<h4 align="left">Hi, I'm a passionate Junior Frontend Developer from Chattogram, Bangladesh. I thrive on building user-friendly and visually appealing web interfaces that make a real impact. Coding is not just my profession—it's my passion.</h4>
 
 ###
 
-<p align="left">✨ Creating bugs since: 2023 (the year you started your coding journey)<br>📚 I'm currently learning: React, Tailwind CSS, and advanced JavaScript techniques<br>🎯 Goals: Contribute to open-source projects, and land a role in a top tech company<br>🎲 Fun fact: I can debug my code faster than I can explain it to someone else!</p>
+<p align="left">✨ Creating bugs since: 2023 <br>📚 I'm currently learning: React, Tailwind CSS, and advanced JavaScript techniques<br>🎯 Goals: Contribute to open-source projects, and land a role in a top tech company<br>🎲 Fun fact: I can debug my code faster than I can explain it to someone else!</p>
 
 ###
 
