@@ -1,93 +1,203 @@
+<!-- ════════════════════════ HERO BANNER ════════════════════════ -->
+<img src="./banner.png" alt="Maptaul Islam Taraq — Full-Stack Engineer | Team Lead" width="100%"/>
+
+<!-- ════════════════════════ TYPING ANIMATION ════════════════════════ -->
 <div align="center">
-  <img height="400" weight="1200" src="https://i.ibb.co.com/JvHx4nW/Maptaul-islam-Taraq.png"  />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00E5B0&center=true&vCenter=true&width=700&lines=Head+of+Technical+Team+%40+WioCare;Full+Stack+JavaScript+Engineer;Building+AI-Powered+Healthcare+Systems;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Clean+Architecture+%2B+Scalable+APIs;Solving+Real+Problems+With+Clean+Code)](https://github.com/Maptaul)
+
+<img src="https://komarev.com/ghpvc/?username=Maptaul&style=for-the-badge&color=00e5b0&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Maptaul?style=for-the-badge&logo=github&color=00e5b0&labelColor=0D1117" alt="Followers"/>
+<a href="https://maptaul.me"><img src="https://img.shields.io/badge/Portfolio-maptaul.me-00e5b0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h1 align="left">Hi there 👋 Iam Maptaul Islam Taraq</h1>
+<!-- ════════════════════════ ABOUT ME ════════════════════════ -->
+## 💡 About Me
 
-###
+```typescript
+const maptaul = {
+  role:      "Head of Technical Team @ WioCare 🏥",
+  location:  "Chattogram, Bangladesh 🇧🇩",
+  mission:   "Building AI-powered healthcare systems that improve lives",
+  code:      ["JavaScript", "TypeScript"],
+  stack:     ["Next.js", "React", "Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma", "Firebase"],
+  architecture: ["REST APIs", "MVC", "Repository Pattern", "Real-time Systems"],
+  leading:   "Engineering team, system architecture & developer mentoring",
+  offDuty:   ["coffee ☕", "cycling 🚴", "nature 🌿", "learning 📚"],
+  motto:     "Code with purpose. Build with impact."
+};
+```
 
-<h2 align="left">Frontend Developer</h2>
+<br/>
 
-###
-
-<h2 align="left">💫 About me</h2>
-
-###
-
-<h4 align="left">Hi, I'm a passionate Junior Frontend Developer from Chattogram, Bangladesh. I thrive on building user-friendly and visually appealing web interfaces that make a real impact. Coding is not just my profession—it's my passion.</h4>
-
-###
-
-<p align="left">✨ Creating bugs since: 2023 <br>📚 I'm currently learning: React, Tailwind CSS, and advanced JavaScript techniques<br>🎯 Goals: Contribute to open-source projects, and land a role in a top tech company<br>🎲 Fun fact: I can debug my code faster than I can explain it to someone else!</p>
-
-###
-
-<h2 align="left">💻 Technologies & Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h2 align="left">GitHub Statistics</h2>
-
-###
+<!-- ════════════════════════ CURRENT FOCUS ════════════════════════ -->
+## 🚀 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maptaul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maptaul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maptaul&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+
+| 🏥 | 🤖 | ⚡ | ☁️ | 🔐 | 📱 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **WioCare Healthcare Platform** | **AI in HealthTech** | **System Architecture** | **Cloud Deployment** | **Security & RBAC** | **Cross-Platform Apps** |
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="left">Connect with Me</h2>
+<!-- ════════════════════════ TECH STACK ════════════════════════ -->
+## 🛠️ Tech Stack
 
-###
+<div align="center">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/maptaul-islam-taraq/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/Maptaul/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="+8801846035436" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+#### ⚛️ Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,figma&theme=dark" alt="Frontend"/>
+
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,mysql&theme=dark" alt="Backend"/>
+
+#### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,vscode,linux&theme=dark" alt="Tools"/>
+
 </div>
 
-###
+<br/>
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Maptaul/count.svg?"  />
+```text
+JavaScript   ███████████████████░ 98%
+TypeScript   ███████████████████░ 95%
+React        ███████████████████░ 98%
+Next.js      ███████████████████░ 95%
+Node.js      ██████████████████░░ 92%
+Express      ██████████████████░░ 90%
+Firebase     ██████████████████░░ 90%
+MongoDB      █████████████████░░░ 85%
+Prisma       ████████████████░░░░ 80%
+Docker       ████████████░░░░░░░░ 60%
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════ ARCHITECTURE ════════════════════════ -->
+## 🏗️ Architecture & Engineering
+
+<div align="center">
+
+`REST API` · `MVC` · `Repository Pattern` · `Service Layer` · `Prisma ORM` · `JWT Auth` · `RBAC` · `Socket.IO` · `Real-time Systems` · `Firebase Cloud Messaging` · `Payment Gateways (Stripe)` · `Background Jobs` · `Caching` · `Microservices-Ready Design`
+
 </div>
 
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════ FEATURED PROJECTS ════════════════════════ -->
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| 🏥 **[WioCare Platform](https://wiocare.com)** <br/>🌐 [wiocare.com](https://wiocare.com) · 🔒 *Production* | AI-powered digital healthcare ecosystem — ambulance dispatch with geo-tracking, pharmacy POS & delivery, lab booking with report automation, real-time notifications & payments | `Next.js` `React` `Express` `Firebase` `Socket.IO` `FCM` `Stripe` |
+| 📚 **[LearnBridge](https://github.com/Maptaul/LearnBridge-client)** | Collaborative study platform connecting students, tutors & admins — [server repo](https://github.com/Maptaul/LearnBridge-server) | `React` `Node.js` `Express` `MongoDB` `JWT` |
+| 🔧 **[FixItNow](https://github.com/Maptaul/FixItNow-Backend)** | Service-booking backend with clean modular architecture | `TypeScript` `Node.js` `Express` |
+| 📊 **[DevPulse](https://github.com/Maptaul/DevPulse)** | Developer productivity & insights platform — [frontend](https://github.com/Maptaul/devpulse-frontend) | `TypeScript` `Next.js` |
+| 🩸 **[BloodBank](https://github.com/Maptaul/bloodbank)** | Blood-donation platform with donor lists & request matching | `JavaScript` `React` |
+
+<br/>
+
+<a href="https://github.com/Maptaul?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-00e5b0?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="All repos"/></a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════ GITHUB ANALYTICS ════════════════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Maptaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5b0&icon_color=00e5b0&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maptaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5b0&langs_count=8&hide=html" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Maptaul&theme=tokyonight&hide_border=true&background=0D1117&ring=00e5b0&fire=00e5b0&currStreakLabel=00e5b0" alt="Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maptaul&bg_color=0D1117&color=00E5B0&line=0f766e&point=00e5b0&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maptaul&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="Trophies"/>
+
+</div>
+
+<!-- ════════════════════════ CONTRIBUTION SNAKE ════════════════════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maptaul/maptaul/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maptaul/maptaul/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Maptaul/maptaul/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════ TIMELINE ════════════════════════ -->
+## 📅 Journey
+
+<div align="center">
+
+| Year | Milestone |
+|:---:|:---|
+| **2017** | 💻 Started programming |
+| **2022** | 🖥️ Senior Computer Operator |
+| **2025** | ⚛️ Frontend Developer |
+| **2025** | 🚀 **Head of Technical Team @ WioCare** |
+| **Today** | 🏥 Building AI-powered healthcare systems |
+
+</div>
+
+<!-- ════════════════════════ ACHIEVEMENTS ════════════════════════ -->
+## 🏆 Achievements
+
+- 👥 Leading the engineering team & software architecture at **WioCare**
+- 🏥 Shipped a **production healthcare platform** — ambulance, pharmacy & lab modules
+- 🔐 Built authentication systems with **JWT + role-based access control**
+- 💳 Integrated **payment gateways** & real-time push notifications at scale
+- 🤖 Delivering **AI features** into production healthcare workflows
+- 🧑‍🏫 Mentoring developers & establishing engineering best practices
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════ QUOTE ════════════════════════ -->
+<div align="center">
+
+### *"Technology should improve lives, not complicate them."*
+**— Maptaul Islam Taraq**
+
+</div>
+
+<!-- ════════════════════════ CONNECT ════════════════════════ -->
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://maptaul.me"><img src="https://img.shields.io/badge/Portfolio-00e5b0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/maptaul-islam-taraq/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:maptaul912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+<a href="https://wa.me/8801846035436"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp"/></a>
+<a href="https://www.facebook.com/Maptaul/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook"/></a>
+<a href="https://github.com/Maptaul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+
+<br/><br/>
+
+⭐ *From [Maptaul](https://github.com/Maptaul) — if my work helps you, a star means a lot!*
+
+</div>
+
+<!-- ════════════════════════ FOOTER ════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00e5b0,60:0f766e,100:020617&section=footer" width="100%"/>
