@@ -129,7 +129,7 @@ Docker       ████████████░░░░░░░░ 60%
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Maptaul&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy-one.vercel.app/?username=Maptaul&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="Trophies"/>
 
 </div>
 
