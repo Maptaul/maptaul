@@ -195,7 +195,7 @@ Docker       ████████████░░░░░░░░ 60%
 
 <br/><br/>
 
-⭐ *From [Maptaul](https://github.com/Maptaul) — if my work helps you, a star means a lot!*
+⭐ *From [Maptaul](https://github.com/Maptaul) — if my work helps you, a star means a lot!*  
 
 </div>
 
