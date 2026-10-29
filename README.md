@@ -117,8 +117,8 @@ Docker       ████████████░░░░░░░░ 60%
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maptaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5b0&icon_color=00e5b0&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maptaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5b0&langs_count=8&hide=html" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.zohan.tech/api?username=Maptaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5b0&icon_color=00e5b0&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Maptaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5b0&langs_count=8&hide=html" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -126,7 +126,12 @@ Docker       ████████████░░░░░░░░ 60%
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maptaul&bg_color=0D1117&color=00E5B0&line=0f766e&point=00e5b0&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maptaul&theme=github_dark" width="95%" alt="Profile Summary"/>
+
+<br/>
+
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maptaul&theme=github_dark" alt="Most Commit Language"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maptaul&theme=github_dark&utcOffset=6" alt="Productive Time"/>
 
 <br/><br/>
 
