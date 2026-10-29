@@ -55,7 +55,7 @@ const maptaul = {
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,figma&theme=dark" alt="Frontend"/>
 
 #### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase,mysql&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,firebase,flutter&theme=dark" alt="Backend"/>
 
 #### ☁️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,vscode,linux&theme=dark" alt="Tools"/>
@@ -98,8 +98,9 @@ Docker       ████████████░░░░░░░░ 60%
 | Project | Description | Tech |
 |:---|:---|:---|
 | 🏥 **[WioCare Platform](https://wiocare.com)** <br/>🌐 [wiocare.com](https://wiocare.com) · 🔒 *Production* | AI-powered digital healthcare ecosystem — ambulance dispatch with geo-tracking, pharmacy POS & delivery, lab booking with report automation, real-time notifications & payments | `Next.js` `React` `Express` `Firebase` `Socket.IO` `FCM` `Stripe` |
+| 🍽️ **[MessMate](https://meassmate.vercel.app)** <br/>🌐 [meassmate.vercel.app](https://meassmate.vercel.app) | Smart mess & shared-housing platform — daily meal planning, grocery/utility-bill & bazar-duty tracking, automatic month-end settlement, bKash/SSLCommerz payments. Web + Android/iOS apps, English & Bangla — [frontend](https://github.com/Maptaul/Messmate-frontend) · [backend](https://github.com/Maptaul/Messmate-Backend) · [member app](https://github.com/Maptaul/Messmate-member-flutter) · [manager app](https://github.com/Maptaul/messmate-manager-flutter) | `Next.js 16` `React 19` `TypeScript` `Express` `Prisma` `PostgreSQL` `Redis` `Flutter` |
 | 📚 **[LearnBridge](https://github.com/Maptaul/LearnBridge-client)** | Collaborative study platform connecting students, tutors & admins — [server repo](https://github.com/Maptaul/LearnBridge-server) | `React` `Node.js` `Express` `MongoDB` `JWT` |
-| 🔧 **[FixItNow](https://github.com/Maptaul/FixItNow-Backend)** | Service-booking backend with clean modular architecture | `TypeScript` `Node.js` `Express` |
+| 🔧 **[FixItNow](https://fixit-now-frontend.vercel.app)** | Home-services marketplace — slot booking, Stripe payments & reviews — [frontend](https://github.com/Maptaul/FixItNowFrontend) · [backend](https://github.com/Maptaul/FixItNow-Backend) | `Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Stripe` |
 | 📊 **[DevPulse](https://github.com/Maptaul/DevPulse)** | Developer productivity & insights platform — [frontend](https://github.com/Maptaul/devpulse-frontend) | `TypeScript` `Next.js` |
 | 🩸 **[BloodBank](https://github.com/Maptaul/bloodbank)** | Blood-donation platform with donor lists & request matching | `JavaScript` `React` |
 
